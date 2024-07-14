@@ -1,5 +1,5 @@
 from PIL import Image
-#we need to install "pip install pillow"
+
 # Function to convert data to binary
 def to_bin(data):
     if isinstance(data, str):
